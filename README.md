@@ -46,6 +46,6 @@ I'm a software engineer and BS-MS Mathematics and Computing student at IIT Roork
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayan-bit&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan-bit&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff" height="150" alt="Top Languages" />
 </div>
