@@ -8,7 +8,7 @@ I'm a software engineer and BS-MS Mathematics and Computing student at IIT Roork
 * **Custom Interpreter:** Engineered a fully functional programming language interpreter (AST generation, lexical scanning) from scratch in Java.
 * **Algorithmic Trading:** Developing custom automated AI trading agents and researching quantitative strategies focusing on Sharpe and Sortino ratios.
 
-### ⚡ Technical Arsenal
+### Technical Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
