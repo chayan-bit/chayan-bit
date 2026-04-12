@@ -40,25 +40,8 @@ I'm a software engineer and BS-MS Mathematics and Computing student at IIT Roork
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-
 ### 📈 Deep GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chayan-bit&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/chayan-bit?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata" alt="Metrics" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan-bit&layout=donut&theme=radical&hide_border=true&langs_count=8" height="200" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan-bit&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
