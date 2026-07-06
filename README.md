@@ -4,10 +4,9 @@ I'm a software engineer and BS-MS Mathematics and Computing student at IIT Roork
 
 ### 🚀 What I'm working on
 * **Yul Compiler:** Developing a custom compiler for Yul to deepen my understanding of EVM internals and low-level smart contract optimization.
-* **Agentic Trading Workflow:** Building a full agentic AI workflow leveraging Model Context Protocol (MCP) to make complex, automated algorithmic trading accessible for retail traders.
-* **DeObfusca-AI:** Analyzing control-flow obfuscated software binaries using Graph Neural Networks (GNNs) and Transformers.
-* **StegoChat (Project Shadow):** Building a decentralized messaging application using on-device GANs for real-time steganography and IPFS for backend storage.
-
+* **Agentic LIFE Workflow:** Building LifeOS a agentic system which handles each and every workflow upto your demand - (catch? sike ! there is no catch) Life OS is designed in a way that it will itself manage any and every connection to external apps/media design any type of automated workflow you want (deterministic or AI driven) and provides api endpoints and visualisation to manage it all - Everything is driven by a large agentic setup and loop with a very powerful memory system inspired from recent advances and research in agentic memory systems
+* **llmdb** - uses larql a open source library which treats llm weights as a database that can be queried - llmdb is a wrapper over larql which uses larql to make a debugger over llm weights and ROP style tool so we can analyze llm weights for allignment without actually running the model
+* **MirrorScope** - A cross-platform, eBPF-assisted time-travel debugger for C, Rust, and Go - with first-class async-Rust and goroutine semantics - exposed over the Debug Adapter Protocol (DAP).
 ### ⚡ Technical Arsenal
 
 **Low-Level & Systems Architecture:**
